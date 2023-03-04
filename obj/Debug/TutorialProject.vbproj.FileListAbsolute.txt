@@ -1,0 +1,14 @@
+D:\JAYprojects\AppDesign\TutorialProject\bin\Debug\TutorialProject.exe.config
+D:\JAYprojects\AppDesign\TutorialProject\bin\Debug\TutorialProject.exe
+D:\JAYprojects\AppDesign\TutorialProject\bin\Debug\TutorialProject.pdb
+D:\JAYprojects\AppDesign\TutorialProject\bin\Debug\TutorialProject.xml
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.vbprojAssemblyReference.cache
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.Navigator.resources
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.Resources.resources
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.vbproj.GenerateResource.cache
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.vbproj.CoreCompileInputs.cache
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.exe
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.xml
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.pdb
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.DateTimePicker.resources
+D:\JAYprojects\AppDesign\TutorialProject\obj\Debug\TutorialProject.WageCalculator.resources
